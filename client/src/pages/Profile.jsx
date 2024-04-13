@@ -89,7 +89,7 @@ export default function Profile() {
                     id="username"
                     defaultValue={currentUser.username}
                     placeholder="Username"
-                    className="bg-slate-100 p-3 rounded-lg "
+                    className="bg-slate-100 p-3 rounded-lg"
                 />
                 <input
                     type="email"
